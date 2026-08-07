@@ -94,7 +94,7 @@ Database: **PostgreSQL**
 Example configuration:
 
 ```properties
-spring.datasource.url=jdbc:postgresql://localhost:5432/lab7demo
+spring.datasource.url=jdbc:postgresql://localhost:5432/lab7
 spring.datasource.username=postgres
 spring.datasource.password=your_password
 
